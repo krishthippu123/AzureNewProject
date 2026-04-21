@@ -1,0 +1,9 @@
+{
+	"name": "datafactorybalavishwa",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "feff6cf9-8adc-45e8-85c4-93c370837934",
+		"tenantId": "2c1abe62-230c-4ab7-b62a-596e05c5f82a"
+	}
+}
