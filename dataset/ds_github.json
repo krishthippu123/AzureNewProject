@@ -1,10 +1,6 @@
 {
 	"name": "ds_github",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "github_conn",
-			"type": "LinkedServiceReference"
-		},
 		"parameters": {
 			"file_name": {
 				"type": "string"
