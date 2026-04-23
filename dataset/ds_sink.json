@@ -1,6 +1,10 @@
 {
 	"name": "ds_sink",
 	"properties": {
+		"linkedServiceName": {
+			"referenceName": "datalake",
+			"type": "LinkedServiceReference"
+		},
 		"parameters": {
 			"folder_name": {
 				"type": "string"
